@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Alberto</h1>
 <h3 align="center">Un desarrollador de software de España</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvericarus&label=Profile%20views&color=0e75b6&style=flat" alt="silvericarus" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvericarus" alt="silvericarus" /></a> </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
