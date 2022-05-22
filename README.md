@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvericarus" alt="silvericarus" /></a> </p>
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/stats?cursusId=21&coalitionId=undefined" alt="albgonza's 42 stats" /></a>
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://dev.to/silvericarus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="silvericarus" height="30" width="40" /></a>
