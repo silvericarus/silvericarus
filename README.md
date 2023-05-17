@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👨‍💻, I'm Alberto</h1>
 <h3 align="center">A Software Developer from Spain</h3>
 
-<p align="center"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/stats?cursusId=21&coalitionId=276" alt="albgonza's 42 stats" /></a> </p>
+<p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/albgonza?1337Badge=off&UM6P=off" alt="albgonza's 42 stats" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvericarus" alt="silvericarus" /></a> </p>
 
 - 🌱 I’m currently learning **C** at 42Malaga
