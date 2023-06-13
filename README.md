@@ -1,3 +1,4 @@
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=ffbd33&height=210&section=header&text=silvericarus&fontSize=50"></p>
 <h1 align="center">Hey 👨‍💻, I'm Alberto</h1>
 <h3 align="center">A Software Developer from Spain</h3>
 
