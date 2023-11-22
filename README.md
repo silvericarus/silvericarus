@@ -1,13 +1,10 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=ffbd33&height=210&section=header&text=silvericarus&fontSize=50"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F00&height=210&section=header&text=silvericarus&fontSize=50"></p>
 <h1 align="center">Hey 👨‍💻, I'm Alberto</h1>
 <h3 align="center">A Software Developer from Spain</h3>
 
-<p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/albgonza?1337Badge=off&UM6P=off" alt="albgonza's 42 stats" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvericarus" alt="silvericarus" /></a> </p>
 
-- 🌱 I’m currently learning **C** at 42Malaga
-
-- 📫 How to reach me **agonzalezrosa@hotmail.com**
+- 📫 How to reach me: **agonzalezrosa@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvericarus&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="silvericarus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvericarus&show_icons=true&locale=en" alt="silvericarus" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F00&height=210&section=footer&text=Bye!&fontSize=50"></p>
