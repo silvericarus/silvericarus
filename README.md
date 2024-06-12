@@ -33,6 +33,9 @@
   <a href="https://codesandbox.io/u/silvericarus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
+  <a href="https://hashnode.com/@silvericarus" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="35" alt="hashnode logo" />
+  </a>
 </div>
 
 ###
