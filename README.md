@@ -1,21 +1,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F00&height=210&section=header&text=silvericarus&fontSize=50"></p>
 <h2 align="center">Hey 👨‍💻, I'm Alberto</h2>
 
-###
-
 <h3 align="center">A Software Developer from Spain</h3>
 
-###
-
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/10747420?v=4"  />
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
-
-###
 
 <div align="left">
   <a href="mailto:agonzalezrosa@hotmail.com" target="_blank">
