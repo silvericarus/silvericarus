@@ -25,7 +25,10 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30" alt="hashnode logo" />
   </a>
   <a href="https://silvericarus.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch.io&color=#fa5c5c&style=for-the-badge" height="30" alt="itch.io logo"  />
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" height="30" />
+  </a>
+  <a href="https://codeberg.org/icarus_wings" target="_blank">
+    <img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff" height="30" />
   </a>
 </div>
 
@@ -137,6 +140,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="30" alt="yii logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
 </div>
 
 ###
