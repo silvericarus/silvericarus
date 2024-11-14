@@ -3,6 +3,9 @@
 
 <h3 align="center">A Software Developer from Spain</h3>
 
+<a href="https://liberapay.com/icarus_wings/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="30" /></a>
+<a href="https://ko-fi.com/silvericarus"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Donate with Ko-fi" height="30" /></a>
+
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
