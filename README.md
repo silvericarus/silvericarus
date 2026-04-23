@@ -3,9 +3,12 @@
 
 <h3 align="center">A Software Developer from Spain</h3>
 
-<a href="https://liberapay.com/icarus_wings/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="30" /></a>
-<a href="https://ko-fi.com/silvericarus"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Donate with Ko-fi" height="30" /></a>
-<a href="https://my.fsf.org/join"><img width="150" height="30" alt="6011510" src="https://github.com/user-attachments/assets/7730cba1-a471-4eda-86ad-c4334c29020a" /></a>
+<div align="left">
+    <a href="https://liberapay.com/icarus_wings/donate"><img alt="Donate using Liberapay" title="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="30" /></a>
+  <a href="https://ko-fi.com/silvericarus"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Donate with Ko-fi" title="Donate with Ko-fi" height="30" /></a>
+  <a href="https://my.fsf.org/join"><img height="30" title="Support the Free Software Foundation!" src="https://github.com/user-attachments/assets/7730cba1-a471-4eda-86ad-c4334c29020a" /></a>
+  <a href="https://fund.godotengine.org/"><img height="30" alt="Support the Godot Engine!" title="Support the Godot Engine!" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/frameworks/godot.svg"/></a>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
